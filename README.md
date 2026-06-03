@@ -1,7 +1,7 @@
 # Hi, I'm Guilherme!
 
 **Senior Product Manager | Product Lead**
-Building data- and AI-enabled digital products across B2B SaaS, CRM/MarTech, fintech and enterprise platforms.
+Building data and AI-enabled digital products across B2B SaaS, CRM/MarTech, fintech and enterprise platforms.
 
 I am a Senior Product Manager with 9+ years of experience turning complex business, operational and technical problems into scalable digital products across Brazil, Latin America, the United States and Europe.
 
